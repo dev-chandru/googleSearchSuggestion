@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.list-container {
+  margin-left: -38px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between !important;
+  align-items: center;
+  padding: 10px;
+  margin-top: 0px;
+  margin-bottom: -30px;
+}
+.suggestion {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  color: #64748b;
+  margin-right: 60px;
+}
+.arrow {
+  width: 15px;
+  height: 15px;
+  margin-left: 60px;
+}
